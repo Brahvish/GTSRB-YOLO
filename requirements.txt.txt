@@ -1,0 +1,4 @@
+ultralytics==8.3.0
+opencv-python
+torch==2.5.1
+USE PYTHON VERSION 3.12<

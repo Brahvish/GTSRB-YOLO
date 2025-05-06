@@ -1,0 +1,1 @@
+yolo task=detect mode=predict model="your_path_where_best.pt_is_stored" source=0 imgsz=320 device=0 show=True
